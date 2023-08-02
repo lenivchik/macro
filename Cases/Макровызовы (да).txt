@@ -1,0 +1,16 @@
+prog1 start 100
+
+macro2 macro
+loadr1
+mend
+
+macro1 macro
+add r1 r2
+
+macro2
+
+mend
+
+macro1
+
+end

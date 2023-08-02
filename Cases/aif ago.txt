@@ -1,0 +1,13 @@
+prog1 start 100
+global c 1
+global a 2
+
+mac macro
+m1: add 1 2
+ago m2
+m2: jmp m1
+mend
+
+mac
+
+end

@@ -1,0 +1,61 @@
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Users\1\Desktop\СПО (Сотыч)\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Users\1\Desktop\СПО\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.Cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csprojAssemblyReference.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\obj\Debug\MacroProcessor63.Utils.Messages.resources
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\obj\Debug\MacroProcessor63.csproj.GenerateResource.cache
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\bin\Debug\MacroProcessor63.exe.config
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\bin\Debug\MacroProcessor63.exe
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\bin\Debug\MacroProcessor63.pdb
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\obj\Debug\MacroProcessor63.exe
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor44\obj\Debug\MacroProcessor63.pdb
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.csprojAssemblyReference.cache
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.Utils.Messages.resources
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.cache
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Projects\Sandbox\MacroProcessor44\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+E:\Desktop\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+E:\Desktop\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+E:\Desktop\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csprojAssemblyReference.cache
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.Utils.Messages.resources
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.cache
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.CoreCompileInputs.cache
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+E:\Desktop\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csprojAssemblyReference.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.MainForm.resources
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.Utils.Messages.resources
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.GenerateResource.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.csproj.CoreCompileInputs.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb

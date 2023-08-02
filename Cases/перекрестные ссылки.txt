@@ -1,0 +1,14 @@
+prog1 start 100
+m1:jmp m2
+
+mac1 macro
+mac2
+mend
+
+mac2 macro
+mac1
+mend
+
+mac1
+
+end

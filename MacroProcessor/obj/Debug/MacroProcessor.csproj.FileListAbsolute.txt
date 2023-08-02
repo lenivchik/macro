@@ -1,0 +1,51 @@
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe.config
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.exe
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\bin\Debug\MacroProcessor63.pdb
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor.csprojAssemblyReference.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor.MainForm.resources
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.Utils.Messages.resources
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor.csproj.GenerateResource.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor.csproj.CoreCompileInputs.cache
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.exe
+C:\Users\galie\Desktop\MacroProcessor63\MacroProcessor63\MacroProcessor63\obj\Debug\MacroProcessor63.pdb
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\bin\Debug\MacroProcessor.exe.config
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\bin\Debug\MacroProcessor.exe
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\bin\Debug\MacroProcessor.pdb
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.csprojAssemblyReference.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.MainForm.resources
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.csproj.GenerateResource.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.csproj.CoreCompileInputs.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.exe
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.pdb
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor63\obj\Debug\MacroProcessor.Utils.Messages.resources
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe.config
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.pdb
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csprojAssemblyReference.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.MainForm.resources
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.Utils.Messages.resources
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.GenerateResource.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.CoreCompileInputs.cache
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.exe
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.pdb
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe.config
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.pdb
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csprojAssemblyReference.cache
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.MainForm.resources
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.Utils.Messages.resources
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.GenerateResource.cache
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.CoreCompileInputs.cache
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.exe
+D:\Учеба\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.pdb
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe.config
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.exe
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug\MacroProcessor.pdb
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.AssemblyReference.cache
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.MainForm.resources
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.Utils.Messages.resources
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.GenerateResource.cache
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.csproj.CoreCompileInputs.cache
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.exe
+D:\Учеба\КАИ\Сотников\Системное программирование\47(63) вариант\MacroProcessor\MacroProcessor\MacroProcessor\obj\Debug\MacroProcessor.pdb

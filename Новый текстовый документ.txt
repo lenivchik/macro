@@ -1,0 +1,2 @@
+C:\Users\galie\Desktop\MacroProcessor\MacroProcessor\MacroProcessor\bin\Debug
+MacroProcessor.exe

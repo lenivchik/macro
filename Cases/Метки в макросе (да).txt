@@ -1,0 +1,10 @@
+prog1 start 100
+m1: add 1 2
+
+mac macro
+m1: add 1 2
+mend
+
+mac
+
+end

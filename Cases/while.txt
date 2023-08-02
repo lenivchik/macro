@@ -1,0 +1,21 @@
+prog1 start 100
+m1:jmp m2
+
+mac macro
+global b 1
+global c 1
+
+while b<3
+add r1 b
+while c<3
+loadr1 c
+inc c
+endw
+inc b
+set c 1
+endw
+
+mend
+
+mac
+end
